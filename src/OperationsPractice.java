@@ -15,7 +15,7 @@ public class OperationsPractice {
 		var1 -= 6;
 		System.out.println("-6 = " + var1 );
 		var1 %= 2;
-		System.out.println("%2 = " + var1 + " (end result)");
+		System.out.println("%2 = " + var1 + " (end result)"); //iuuiqweyriouwyriouqwryoi
 	}
 
 }
